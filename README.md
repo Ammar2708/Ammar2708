@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AMMAR Alam</h1>
+<h1 align="center">Hi 👋, I'm AMMAR ALAM</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **react.js Advanced frontend-AI & Automation (n8n, Make.com)-AI Integrations in Web Applications**
